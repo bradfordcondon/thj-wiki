@@ -7,7 +7,13 @@ description: Progression guide through the heroes journey.
 
 ![Progression](images/progression.png)
 
-Progression is broken into expansions, with key mobs needing to be killed to unlock the next.
+Progression is broken into expansions, with key mobs needing to be killed to unlock the next. To successfully progress, you must
+1. Fight the boss in a non-respawning dynamic zone (DZ)
+2. Hail the **Echo Of Memory** that spawns after defeating the boss
+
+You do **not** need to complete each boss solo.  If you're stuck, try asking for help in `/ooc`!
+
+Each expansion has a flag NPC in the bazaar that you can talk to and check on your flag progress.
 
 # Classic
 
@@ -20,7 +26,7 @@ TODO: list every classic zone available, for quick search/unlock reference
 Found in Soluseks Eye, this is a Dragon that will challenge you with his Fire Breath attack.
 {{</details>}}
 {{<details title="Lady Vox">}}
-Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, but also compete with her Complete Heal
+Found in Permafrost, Lady Vox is a challenging Dragon fight to not only get to, but also compete with her Complete Heal.
 {{</details>}}
 {{<details title="Phinigel Autoropos">}}
 Found in Kedge Keep, Phinigel will require waterbreathing and strategies to overcome his seahorse guards and wizard spells.
